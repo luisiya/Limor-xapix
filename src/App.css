@@ -1,0 +1,19 @@
+body {
+    background-size: 881px;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.App {
+    text-align: center;
+    max-width: 960px;
+    margin: 8% auto;
+    height: 499px;
+    padding-top: 145px;
+}
+.update_bg{
+    background-position-y: center;
+}
+
+
+
